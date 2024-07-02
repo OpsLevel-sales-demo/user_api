@@ -153,7 +153,7 @@ makes it eligible for export under the License Exception ENC Technology Software
 Unrestricted (TSU) exception (see the BIS Export Administration Regulations, Section
 740.13) for both object code and source code.
 
-The following provides more details on the included cryptographic softw
+The following provides more details on the included cryptographic softwar
 
 * CloudStack makes use of JaSypt cryptographic libraries.
 * CloudStack has a system requirement of MySQL, and uses native database encryption functionality.
