@@ -1,0 +1,33 @@
+---
+version: 1
+service:
+  name: cloudstack
+  lifecycle:
+  tier:
+  product:
+  owner: order_management_team
+  system:
+  language: Python
+  framework: Vue.js
+  description:
+  aliases:
+  tags:
+  repositories:
+  - name: OpsLevel-sales-demo/cloudstack
+    path: "/"
+    provider: github
+  tools:
+  - name: Pagerduty
+    category: incidents
+    url: https://adgdemo.pagerduty.com/service-directory/PQ1ITL1
+    environment:
+  dependencies:
+  alert_sources:
+  - type: pagerduty
+    external_id: PQ1ITL1
+  properties:
+    code_freeze_date:
+    container_image:
+    dast_findings:
+    risk_assessment:
+    vpc_enabled:
