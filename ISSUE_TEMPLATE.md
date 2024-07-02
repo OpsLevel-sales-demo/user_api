@@ -11,7 +11,7 @@ Always add information AFTER of these HTML comments, but no need to delete the c
  * Enhancement Request
  * Feature Idea
  * Documentation Report
- * Other
+ * Other Issue Type
 
 ##### COMPONENT NAME
 <!--
