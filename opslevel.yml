@@ -3,7 +3,7 @@ version: 1
 service:
   name: cloudstack
   lifecycle:
-  tier:
+  tier: tier_1
   product:
   owner: order_management_team
   system:
