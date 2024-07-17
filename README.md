@@ -136,7 +136,7 @@ under the License.
 Please see the [LICENSE](LICENSE) file included in the root directory
 of the source tree for extended license details.
 
-## Notice of Cryptographic Software
+## Notice of Cryptographic Software:
 
 This distribution includes cryptographic software. The country in which you currently
 reside may have restrictions on the import, possession, use, and/or re-export to another
