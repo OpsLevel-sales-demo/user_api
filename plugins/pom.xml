@@ -183,7 +183,7 @@
         <dependency>
             <groupId>com.google.zxing</groupId>
             <artifactId>javase</artifactId>
-            <version>3.2.1</version>
+            <version>3.4.1</version>
         </dependency>
         <dependency>
             <groupId>org.apache.cloudstack</groupId>
@@ -201,13 +201,13 @@
         <dependency>
             <groupId>io.minio</groupId>
             <artifactId>minio</artifactId>
-            <version>8.5.2</version>
+            <version>8.5.9</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
             <groupId>io.minio</groupId>
             <artifactId>minio-admin</artifactId>
-            <version>8.5.2</version>
+            <version>8.5.9</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
