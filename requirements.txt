@@ -21,3 +21,4 @@ pre-commit
 
 # Install the SolidFire SDK for Python
 solidfire-sdk-python
+idna>=3.15 # not directly required, pinned by Snyk to avoid a vulnerability
