@@ -33,7 +33,7 @@ COPY . /build/
 RUN npm install
 RUN npm run build
 
-FROM nginx:alpine AS runtime
+FROM nginx:1.31.8-alpine3.24 AS runtime
 
 LABEL org.opencontainers.image.title="Apache CloudStack UI" \
 	org.opencontainers.image.description="A modern role-based progressive CloudStack UI" \
